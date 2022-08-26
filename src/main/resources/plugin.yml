@@ -1,0 +1,16 @@
+name: MooCowIO
+version: '${project.version}'
+main: com.xiii.moocowio.MooCowIO
+prefix: MCI
+authors: [ XIII___ ]
+description: MooCowIO Game Plugin
+commands:
+  join:
+    usage: join
+    description: MCI Game join command
+  shop:
+    usage: shop
+    description: MCI Shop command
+  boost:
+    usage: boost
+    description: MCI Boost command

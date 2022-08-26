@@ -1,0 +1,13 @@
+INFO:
+
+- Map 224x224x28
+- Lobby above map glass good halal 2022
+
+To do:
+
+- Health hologram over head (Mobs & Players)
+- Upgrade proposal GUI with message reminder every 15s
+- Upgrades
+- Plus d'items au shop
+- Backpack (left click) GUI to withdraw wood, stone, food and gold
+- Pickup checker (trade from backpack items drop)
